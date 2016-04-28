@@ -2,10 +2,6 @@
 .inli {
 	display: inline;
 }
-/*aside 1*/
-iframe {
-	max-width: 100%;
-}
 a {
 	color: crimson;
 }
@@ -42,4 +38,21 @@ aside {
 }
 article img {
 	max-width: 100%;
+}
+
+/*aside 1*/
+iframe {
+	max-width: 100%;
+}
+.medias {
+	width: 64px;
+	height: 64px;
+	background-color: crimson;
+	text-align: center;
+	padding: 5px;
+	color: #E0E0E0;
+}
+
+.lines {
+	line-height: 10px;
 }

@@ -1,0 +1,45 @@
+/* Generales */ 
+.inli {
+	display: inline;
+}
+/*aside 1*/
+iframe {
+	max-width: 100%;
+}
+a {
+	color: crimson;
+}
+
+.destacado {
+	padding: 5px;
+	background-color: Crimson;
+	color: white; 
+	display: inline-block;
+	margin-bottom: 10px;
+}
+.none {
+	list-style: none;
+	list-style-type: none;
+
+}
+aside {
+	background-color: #fae2e7;
+	padding: 5px;
+	margin-bottom: 10px;
+}
+
+/* articulos */
+.tagged {
+	margin-right: 50px;
+}
+.webzone {
+	padding-left: 30px;
+	padding-right: 30px;
+	background-color: #ccc;
+	color: white;
+	display: inline-block;
+	margin-bottom: 10px;
+}
+article img {
+	max-width: 100%;
+}
